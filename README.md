@@ -6,4 +6,4 @@ This is the official distribution channel for Raboy's Clash of Clans bot. All st
 
 ## Getting Started
 
-To download the latest release, visit the [Releases](https://github.com/Raboy-13/raboys-bot-releases/releases) page.
+To download the latest release MSI installer, visit the [Releases](https://github.com/Raboy-13/raboys-bot-releases/releases) page.
