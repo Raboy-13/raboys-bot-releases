@@ -1,8 +1,6 @@
 # Raboy's Clash of Clans Bot Releases
 
-Official Release Distribution Channel for [@Raboy-13/coc-bot](https://github.com/Raboy-13/coc-bot)
-
-This repository hosts the official releases of the Clash of Clans bot.
+Official Release Distribution Channel for official releases of the Clash of Clans bot.
 
 ## About
 
