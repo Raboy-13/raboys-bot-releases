@@ -8,11 +8,22 @@ This is the official distribution channel for Raboy's Clash of Clans bot. All st
 
 To download the latest release MSI installer, visit the [Releases](https://github.com/Raboy-13/raboys-bot-releases/releases) page.
 
-## ⚔️ Official Feature Overview ⚔️
+## 💎 SUBSCRIPTION PLANS
+
+- ⏱️ **1 Day** ── `$1.00` _(Trial)_
+- ⚡ **3 Days** ── `$2.00` _($0.67/day)_
+- 🪙 **7 Days** ── `$4.00` _($0.57/day)_
+- ⚔️ **15 Days** ── `$7.00` _($0.47/day)_
+- 🛡️ **1 Month** ── `$10.00` _($0.33/day)_
+- 🔮 **2 Months** ── `$18.00` _($0.30/day)_
+- 👑 **3 Months** ── `$27.00` _($0.30/day)_
+- 💎 **1 Year** ── `$90.00` ── **🔥 BEST VALUE 🔥 ** _($0.25/day)_
+
+# ⚔️ Official Feature Overview ⚔️
 
 Loot more. Rest more. Stay safer.
 
-### ✅ MAIN FEATURES
+# ✅ MAIN FEATURES
 
 - ✅ Multi-account parallel farming — run several emulator accounts at once
 - ✅ Per-account profiles — separate settings, labels, and saved emulator mapping for each account
@@ -30,7 +41,7 @@ Loot more. Rest more. Stay safer.
 - ✅ LDPlayer support — Android 9 and 14
 - ✅ Clean Clash-style UI
 
-### 🛡️ ACCOUNT SAFETY
+# 🛡️ ACCOUNT SAFETY
 
 - ✅ Advanced human behavior simulation
 - ✅ Randomized tap positions
@@ -45,7 +56,7 @@ Loot more. Rest more. Stay safer.
 - ✅ No suspicious 3:00-flat battle endings
 - ✅ Automatically quits COC and shuts down when all storages are full (24/7 mode-safe)
 
-### ⚡ PERFORMANCE
+# ⚡ PERFORMANCE
 
 - ✅ Isolated sessions — each account runs in its own worker; one crash does not stop the rest
 - ✅ Start All Enabled — connect every ready account and farm them together with one click
@@ -59,7 +70,7 @@ Loot more. Rest more. Stay safer.
 - ✅ Smooth parallel checks — background monitoring never slows down the main bot
 - ✅ Control panel opens fast — lightweight startup with deferred UI loading
 
-### ⚡ LOOT SPEED
+# ⚡ LOOT SPEED
 
 - ✅ Fast base scanning
 - ✅ Bad bases skipped fast
@@ -72,7 +83,7 @@ Loot more. Rest more. Stay safer.
 - ✅ Pre-attack zoom-out
 - ✅ Templates preloaded while searching so the first scan is instant
 
-### ⚔️ SUPPORTED UNITS
+# ⚔️ SUPPORTED UNITS
 
 🛡️ **Troops**
 
@@ -124,7 +135,7 @@ Loot more. Rest more. Stay safer.
 - 🔹 Troop Launcher
 - 🔹 Sky Wagon
 
-### 🧱 WALL UPGRADES
+# 🧱 WALL UPGRADES
 
 - ✅ Monitors Home Village resources
 - ✅ Starts after threshold is reached
@@ -136,7 +147,7 @@ Loot more. Rest more. Stay safer.
 - ✅ Quits cleanly when nothing useful is left to spend
 - ✅ Handles shop panels, resource buttons, and confirmation dialogs consistently
 
-### 🎂 REINFORCEMENTS
+# 🎂 REINFORCEMENTS
 
 - ✅ Auto request troops before attacks (toggle in Farming tab)
 - ✅ Keeps Clan Castle filled when enabled
@@ -144,7 +155,7 @@ Loot more. Rest more. Stay safer.
 - ✅ Uses Cake for instant reinforcements
 - ✅ No empty Clan Castle attacks
 
-### 🎨 UI
+# 🎨 UI
 
 - ✅ Sessions dashboard — scan emulators, map accounts, connect, start, and stop per profile
 - ✅ Tabbed control panel — Sessions, Schedule, Farming, Upgrades, Logs, and Support in one place
@@ -158,7 +169,7 @@ Loot more. Rest more. Stay safer.
 - ✅ Premium look and feel
 - ✅ Single control-panel instance — no duplicate windows fighting over your settings
 
-### 🧰 MORE FEATURES
+# 🧰 MORE FEATURES
 
 - ✅ Farm mode
 - ✅ Ranked mode
