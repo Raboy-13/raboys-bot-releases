@@ -104,6 +104,7 @@ Loot more. Rest more. Stay safer.
 - 🔹 Valkyrie
 - 🔹 Super Valkyrie
 - 🔹 Super Minion
+- 🔹 Sneaky Goblin
 
 👑 **Heroes**
 
@@ -122,6 +123,7 @@ Loot more. Rest more. Stay safer.
 - 🔹 Lightning
 - 🔹 Earthquake
 - 🔹 Clone
+- 🔹 Jump
 
 🏰 **Siege Machines**
 
