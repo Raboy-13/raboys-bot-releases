@@ -10,7 +10,8 @@ To download the latest release MSI installer, visit the [Releases](https://githu
 
 ## 💎 SUBSCRIPTION PLANS
 
-- ⏱️ **1 Day** ── `$1.00` _(Trial)_
+- 💚 **Free (1 day per week)** ── `$1.00` _(Trial)_
+- ⏱️ **1 Day** ── `$1.00` _($1/dayl)_
 - ⚡ **3 Days** ── `$2.00` _($0.67/day)_
 - 🪙 **7 Days** ── `$4.00` _($0.57/day)_
 - ⚔️ **15 Days** ── `$7.00` _($0.47/day)_
