@@ -1,32 +1,39 @@
-# Raboy's Clash of Clans Bot Releases
+# COC Bot by Raboy: Clash of Clans bot for Windows
 
-## About
+COC Bot is a Windows Clash of Clans bot. It farms the Main Village and Builder
+Base, upgrades walls, buildings, heroes and research, donates troops, works on
+Clan Games and runs several accounts at once, each in its own emulator. This
+repository is its official release channel.
 
-This is the official distribution channel for Raboy's Clash of Clans bot. All
-stable releases are published here for easy access and download.
+**[Website](https://raboys-bot.shop/)** ·
+**[Download the latest release](https://github.com/Raboy-13/raboys-bot-releases/releases/latest)** ·
+**[Setup guide](https://raboys-bot.shop/guides.html)** ·
+**[Plans and free tier](https://raboys-bot.shop/pricing.html)** ·
+**[Discord support](https://discord.com/invite/GkMefvsu8t)**
 
-Website: [COC Bot by Raboy](https://raboys-bot.shop/)
+![COC Bot Sessions screen with demonstration data: accounts listed with Scan Emulators, New Profile and Start All Enabled controls](docs/client-sessions.webp)
+
+New to bots? Read [What is a COC bot?](https://raboys-bot.shop/what-is-a-coc-bot.html)
 
 ## Download and install
 
-Download the latest Windows MSI installer from the
-[Releases](https://github.com/Raboy-13/raboys-bot-releases/releases) page.
+1. Download the Windows MSI installer from the
+   [latest release](https://github.com/Raboy-13/raboys-bot-releases/releases/latest).
+   The website's [Download page](https://raboys-bot.shop/download.html) shows
+   the same installer with its SHA-256 checksum.
+2. Run the installer and launch **COC Bot by Raboy**.
+3. Follow the [setup guide](https://raboys-bot.shop/guides.html) to prepare
+   your emulator, activate your license and connect your first account.
 
-## 💎 Subscription plans
+## Plans
 
-- 💚 **Free (1 day per week)** ── _(Trial)_
-- ⏱️ **1 Day** ── `$1.00` _($1/day)_
-- ⚡ **3 Days** ── `$2.00` _($0.67/day)_
-- 🪙 **7 Days** ── `$4.00` _($0.57/day)_
-- ⚔️ **15 Days** ── `$7.00` _($0.47/day)_
-- 🛡️ **1 Month** ── `$10.00` _($0.33/day)_
-- 🔮 **2 Months** ── `$18.00` _($0.30/day)_
-- 👑 **3 Months** ── `$27.00` _($0.30/day)_
-- 💎 **1 Year** ── `$90.00` ── **🔥 BEST VALUE 🔥** _($0.25/day)_
+COC Bot has a free tier and paid plans. Current prices are on the
+[Pricing page](https://raboys-bot.shop/pricing.html); orders are placed in a
+ticket on the official [Discord](https://discord.com/invite/GkMefvsu8t).
 
 ## ⚔️ Feature overview
 
-**Loot more. Rest more. Stay safer.**
+**Loot more. Rest more.**
 
 ### Main Village farming
 
@@ -41,7 +48,7 @@ Download the latest Windows MSI installer from the
   machines
 - Optional clan reinforcement requests and Clan Castle Cake support
 - Chest and troop-card event assistance during normal farming
-- September 2026 WWE event support in Farm battles: troop reward selection,
+- September 2026 WWE event support in Farm battles (event ended September 30): troop reward selection,
   event troop deployment, and final Tag Tickets collection at 100% destruction
 - Clean return-home and full-storage stopping behavior
 
@@ -140,7 +147,7 @@ Download the latest Windows MSI installer from the
 - **Heroes:** Battle Machine and Battle Copter
 
 Event-unit availability may change with Clash of Clans updates. WWE reward
-automation is active during the September 1–30, 2026 event window (UTC).
+automation ran during the September 1–30, 2026 event window (UTC).
 
 ## Supported systems
 
@@ -153,6 +160,17 @@ automation is active during the September 1–30, 2026 event window (UTC).
 Unsupported emulator versions are not listed as available sessions. Use the
 latest stable bot release for current compatibility and fixes.
 
+## Account safety
+
+Supercell prohibits bots and gameplay automation, and using any bot can lead
+to a suspension or a permanent ban. COC Bot offers human-like interaction,
+work and rest schedules and clear warnings, but they do not remove that risk.
+Read [Is a COC bot safe?](https://raboys-bot.shop/account-safety.html) before
+you automate an account.
+
 ---
 
 More accounts. Smarter farming. Smarter timing. Smarter stopping. ⚔️
+
+Independent software. Not affiliated with or endorsed by Supercell. Clash of
+Clans is a trademark of Supercell Oy.
