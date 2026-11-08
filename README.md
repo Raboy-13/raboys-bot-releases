@@ -5,6 +5,8 @@
 This is the official distribution channel for Raboy's Clash of Clans bot. All
 stable releases are published here for easy access and download.
 
+Website: [COC Bot by Raboy](https://raboys-bot.shop/)
+
 ## Download and install
 
 Download the latest Windows MSI installer from the
