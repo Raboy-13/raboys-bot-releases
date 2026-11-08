@@ -40,14 +40,16 @@ ticket on the official [Discord](https://discord.com/invite/GkMefvsu8t).
 - Farm mode with configurable Gold, Elixir, and Dark Elixir goals, with
   attack rules that require any or all enabled thresholds
 - Optional threshold bypass for resources whose Home Village storages are full
-- Ranked mode with a configurable attack limit and optional continuation in
-  Farm mode after Ranked attacks are complete
+- Ranked with one Farming toggle: available Ranked attacks are counted
+  automatically, and the bot keeps farming when they run out
 - Fast base searching and automated attacks, with configurable time-, loot-,
   and destruction-based early surrender
 - Custom deployment plans for supported troops, heroes, spells, and siege
   machines
 - Optional clan reinforcement requests and Clan Castle Cake support
 - Chest and troop-card event assistance during normal farming
+- Clashoween reward choices that prioritize larger troop groups, with an
+  optional **Prefer resources** setting for resources and event currency
 - September 2026 WWE event support in Farm battles (event ended September 30): troop reward selection,
   event troop deployment, and final Tag Tickets collection at 100% destruction
 - Clean return-home and full-storage stopping behavior
@@ -56,27 +58,57 @@ ticket on the official [Discord](https://discord.com/invite/GkMefvsu8t).
 
 - Automatic Builder Base farming for single-stage bases and across both
   stages of two-stage battles
-- Builder Star Bonus farming with optional Star Jar use
+- Continuous Builder Gold farming from attacks and Elixir Cart collection,
+  with or without a Star Bonus; optional Star Jar use
+- **Farm first** village choice with **Automatically switch**: move to the
+  other village when storages stay full after enabled upgrades, and return
+  when your preferred village has room
 - Dedicated Builder Base deployment and early-surrender settings
 - Battle Machine and Battle Copter support, including automatic hero and
   Bomber ability use
-- Automatic return to Main Village when Builder Base farming finishes
+- Custom sceneries and scenery rotation kept during village travel and cart
+  visits
 - Concise in-app Builder Base farming guide
+
+### Auto donate
+
+- Fills eligible clan requests with troops, spells, and siege machines,
+  including Super Troops without activating them, using Elixir or Dark Elixir
+  and never gems
+- On by default for new profiles; confirmed donations appear in Activity and
+  housing space donated is tracked in Status
+- Optional **Standby mode** waits in the Main Village for requests, keeps the
+  game active, and farms to refill only the resources donations need
+- Standby follows your work/rest schedule, and session cards show whether the
+  bot is waiting or refilling
+
+### Clan Games
+
+- **Prioritize Clan Games** is on by default for the Main Village and Builder
+  Base
+- Picks the highest-point challenge your enabled army can complete, confirms
+  it started, and tracks progress toward your personal point limit
+- Supports loot, stars, destruction, building and Wall targets, enemy
+  hero-level knockouts, and eligible troop, spell, or hero challenges
+- Returns to normal farming at your point limit, or when no suitable challenge
+  is available; gems and reward claims stay under your control
 
 ### Automatic upgrades and research
 
 - Separate Main Village and Builder Base controls for Laboratory, Walls,
-  Buildings, Heroes, upgrade priority, and resource thresholds
+  Buildings, Heroes, Hero Pets, and upgrade priority
 - Automatic wall, building, trap, and hero upgrades, plus supported Crafted
   Defense and Guardian upgrades
+- Hero Pet upgrades through the Build menu with **Enable Hero & Pet Upgrade**,
+  even while all builders are busy
 - Main Village Supercharge building upgrades
 - Optional Town Hall and Builder Hall progression after other village
   upgrades are complete
 - Bulk wall upgrades using Gold or Elixir, including Builder Base resources
-- Choose Walls, Buildings, or Heroes as the preferred upgrade category;
-  Walls priority reserves the final Builder for walls
-- Automatic thresholds based on 95% of each eligible resource's capacity,
-  or a custom resource threshold
+- Choose Walls, Buildings, or Heroes as each village's priority; while the bot
+  saves for that upgrade, the last free Builder is kept for it
+- Wall batches start at 95% Gold or Elixir, and spare builders start
+  affordable planned work right away; protected reserves still apply
 - Main Village Laboratory research for permanent troops, spells, and siege
   machines, plus Star Laboratory research during Builder Base visits
 - Automatic Builder's Apprentice and Lab Assistant assignment when available,
@@ -89,11 +121,21 @@ ticket on the official [Discord](https://discord.com/invite/GkMefvsu8t).
 
 - Parallel farming for multiple emulator accounts
 - Separate settings, labels, and saved emulator mapping for each profile
+- Drag-and-drop profile order in Sessions, also used by the profile selector
 - One-click start for all enabled profiles
 - Independent sessions, so one profile problem does not stop the others
 - Work/rest schedules, minute or hour controls, and optional 24/7 mode
+- **Return when work finishes**, on by default: brief upgrade and assistant
+  visits during rest while keeping the original rest deadline
 - Live work/rest countdowns, loop status, and total session uptime
 - Session status filters, per-profile activity, and bulk profile actions
+
+### Progress and rankings
+
+- **Status** tab with recorded progress, hourly loot graphs for both villages,
+  and live upgrade and Clan Games details
+- Recorded progress feeds the daily and all-time rankings on the
+  [website](https://raboys-bot.shop/) and Discord, including `/rank`
 
 ### Human-like operation
 
@@ -128,9 +170,12 @@ ticket on the official [Discord](https://discord.com/invite/GkMefvsu8t).
 - **Troops:** Lavaloon, Golden Dragon, M.E.C.H.A, Giant Thrower, Barbarian
   Kicker, Broom Witch, Giant, Meteor Golem, Wall Breaker, Sneaky Goblin,
   Barbarian, Archer, Super Witch, Super Dragon, Furnace, Super Valkyrie,
-  Electro Titan, Valkyrie, Dragon, Super Minion, Electro Dragon, Balloon,
-  Ruin Witch, Elephant Rider, Miner, and Super Miner
+  Electro Titan, Valkyrie, Dragon, Dragon Rider, Super Minion, Electro Dragon,
+  Balloon, Ruin Witch, Elephant Rider, Miner, and Super Miner
 - **WWE event troops:** Giant Giant, Yeti Undertaker, K.A.N.E, and YEEter
+- **Clashoween rewards:** Witch Golem, Lavaloon, Pumpkin Barbarian, Barcher,
+  Totem Thrower, Giant Skeleton, Ice Minion, Royal Ghost, Hog Wizard, and
+  Skeleton Barrel
 - **Heroes:** Barbarian King, Archer Queen, Grand Warden, Royal Champion,
   Minion Prince, and Dragon Duke
 - **Spells:** Earthquake, Jump, Rage, Clone, Angry Spell, Totem, Lightning,
